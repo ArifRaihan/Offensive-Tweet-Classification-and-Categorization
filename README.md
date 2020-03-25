@@ -8,6 +8,8 @@ NOT, OFF-UNT, OFF-TIN-IND, OFF-TIN-GRP, OFF-TIN-OTH
 
 Dataset - OLID (https://sites.google.com/site/offensevalsharedtask/olid)
 
+Competition link - OffensEval 2019 (https://sites.google.com/site/offensevalsharedtask/offenseval2019)
+
 <b>Task 1</b>
 
 The testing data is split into 3 label files and 3 data files for 3 subtasks. The training data is contained in one file with all labels. I do the following steps to build the classifier and evaluate it on test data -
